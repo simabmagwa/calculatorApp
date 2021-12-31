@@ -1,0 +1,10 @@
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CalculatorApp\obj\Debug\CalculatorApp.pdb
